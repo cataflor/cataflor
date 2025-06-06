@@ -2,7 +2,7 @@
 
 **`Engenheira de software`**
 
-Olá! Eu sou a Caroline, mas todo mundo me chama de Rol. Tenho 26 anos e sou estudante de Engenharia Elétrica. Em 2023, descobri a programação e foi amor à primeira vista! Desde então, mergulhei de cabeça no universo da tecnologia, estudando e criando projetos sempre que posso. Meu objetivo? Conquistar minha primeira oportunidade como desenvolvedora júnior e seguir aprendendo cada vez mais.
+Olá! Eu sou a Caroline, mas todo mundo me chama de Rol. Tenho 26 anos e sou estudante de Engenharia Elétrica. Em 2022, descobri a programação e foi amor à primeira vista! Desde então, mergulhei de cabeça no universo da tecnologia, estudando e criando projetos sempre que posso. Meu objetivo? Conquistar minha primeira oportunidade como desenvolvedora júnior e seguir aprendendo cada vez mais.
 
 Quando não estou codando, você provavelmente vai me encontrar na academia, dando risada com as amigas ou curtindo a companhia da minha gata — que adora participar das minhas aventuras no código. 💻🐱
 
